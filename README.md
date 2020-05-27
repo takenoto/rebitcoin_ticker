@@ -3,7 +3,7 @@
 A simple app to get bitcoin exchange
 
 First Interface:
-![Basic Interface](images/screen1.png)
+![Basic Interface](chooseCoint.png)
 
 
 ## Getting Started
