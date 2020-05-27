@@ -2,6 +2,10 @@
 
 A simple app to get bitcoin exchange
 
+First Interface:
+![Basic Interface](images/screen1.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
